@@ -1,0 +1,238 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color:#86acf9;
+  }
+  
+  .app-wraper {
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+  }
+  
+  .about-me-section {
+  }
+  
+  .sidebar-images {
+    margin-top: 40px;
+  }
+  
+  .sidebar-section {
+    background-color: #dfeeff;
+  }
+  
+  .contacs-containers {
+    padding-left: 40px;
+  }
+  .contacts-header {
+    color: black;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .contacts-item {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: black;
+  }
+  .contacts-phone {
+    color: #4489ff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  .contacts-email {
+    color: #4489ff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 10px;
+  }
+  .contacts-element {
+    margin-top: -10px;
+  }
+  .tech-sckills-container {
+    padding-left: 40px;
+    margin-top: 40px;
+  }
+  .tech-sckills-header {
+    color: black;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .tech-sckills-list {
+    color: black;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+    margin-left: -10px;
+  }
+  
+  .soft-skills-container {
+    padding-left: 40px;
+    margin-top: 40px;
+  }
+  .soft-skills-list {
+    color: black;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+    margin-left: -10px;
+  }
+  
+  .soft-skills-header {
+    color: black;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  
+  .right-side-container {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 180px;
+  }
+  
+  .about-me-profession {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .about-me-name {
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -10px;
+  }
+  .about-me-description {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: -15px;
+  }
+  .projects-section {
+    margin-top: 40px;
+  }
+  .projects-header {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .projects-list {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: -20px;
+    margin-top: 10px;
+  }
+  .projects-name {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+  }
+  .projects-info {
+    font-weight: 400;
+  }
+  .work-experience-section {
+    margin-top: 40px;
+  }
+  .work-experience-header {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .company-name {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .company-info {
+    color: #6096ff;
+    margin-left: 10px;
+  }
+  .company-time {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+  }
+  .company-elements-list {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: -15px;
+    margin-top: -5px;
+  }
+  .company-container {
+    margin-top: -10px;
+  }
+  .manager-glory-containers {
+    margin-top: -17px;
+  }
+  .manager-glory-header {
+    font-weight: 700;
+    font-size: 16px;
+    font-style: normal;
+  }
+  .manager-glory-time {
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: -10px;
+    color: #a8a8a8;
+  }
+  .education-info {
+    color: #6096ff;
+    margin-top: -5px;
+  }
+  .education-header {
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: -10px;
+  }
+  .manager-elements-list {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;
+    margin-left: -15px;
+    margin-top: -5px;
+  }
+  .education-time {
+    font-weight: 400;
+    font-size: 12px;
+    color: #a8a8a8;
+    margin-top: -10px;
+  }
+  
